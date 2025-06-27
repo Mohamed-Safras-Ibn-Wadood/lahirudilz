@@ -20,13 +20,13 @@ Let's connect and build something amazing together! 😊
  <table>
   <tr>
    <td align="center" style="padding: 0 5px;">
-   <img src="https://git-hub-streak-stats.vercel.app?user=Mohamed-safras&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="100%" />
+   <img src="https://git-hub-streak-stats.vercel.app?user=Mohamed-Safras-Ibn-Wadood&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" width="100%" />
    </td>
    <td align="center" style="padding: 0 5px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Safras-Ibn-Wadood&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
    </td>
    <td align="center" style="padding: 0 5px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Safras-Ibn-Wadood&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
    </td>
   </tr>
  </table>
